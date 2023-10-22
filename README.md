@@ -21,8 +21,7 @@ O projeto possui a seguinte estrutura de arquivos:
 
 Para usar o cronômetro, siga estas etapas:
 
-1. Abra o arquivo `index.html` em um navegador da web.
-
+1. Abra o [cronometro](https://js-cronometro-j0aocunha.netlify.app)
 2. Clique no botão "Iniciar" para iniciar o cronômetro. O tempo será atualizado a cada 10 milissegundos.
 
 3. Você pode clicar no botão "Pausar" a qualquer momento para interromper a contagem.
